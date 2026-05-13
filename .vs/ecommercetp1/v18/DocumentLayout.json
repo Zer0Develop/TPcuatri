@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PcGamer\\Documents\\Nueva carpeta (2)\\TPcuatri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|c:\\users\\pcgamer\\documents\\nueva carpeta (2)\\tpcuatri\\usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|solutionrelative:usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|c:\\users\\pcgamer\\documents\\nueva carpeta (2)\\tpcuatri\\usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|solutionrelative:usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|c:\\users\\pcgamer\\documents\\nueva carpeta (2)\\tpcuatri\\usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F617984-9F38-05FF-7BBB-75AD98BAD246}|ecommercetp1.csproj|solutionrelative:usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +26,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsuariosForm.cs",
               "DocumentMoniker": "C:\\Users\\PcGamer\\Documents\\Nueva carpeta (2)\\TPcuatri\\UsuariosForm.cs",
               "RelativeDocumentMoniker": "UsuariosForm.cs",
               "ToolTip": "C:\\Users\\PcGamer\\Documents\\Nueva carpeta (2)\\TPcuatri\\UsuariosForm.cs",
               "RelativeToolTip": "UsuariosForm.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAewIIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAwJQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T23:41:34.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsuariosForm.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\PcGamer\\Documents\\Nueva carpeta (2)\\TPcuatri\\UsuariosForm.cs",
               "RelativeDocumentMoniker": "UsuariosForm.cs",

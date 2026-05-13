@@ -142,8 +142,7 @@ namespace ecommercetp1
                     cmd.Parameters.AddWithValue("@nombre", txtNombre.Text);
                     cmd.Parameters.AddWithValue("@email", txtEmail.Text);
                     cmd.Parameters.AddWithValue("@contraseña", txtContraseña.Text);
-                    cmd.Parameters.AddWithValue("@tienda", cbTienda.SelectedItem.ToString());
-
+                    cmd.Parameters.AddWithValue("@tienda", cbTiendas.SelectedItem.ToString());
                     con.Open();
                     cmd.ExecuteNonQuery();
                 }
